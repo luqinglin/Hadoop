@@ -25,7 +25,7 @@ public class MaxTemperature {
         conf.setMapperClass(MaxTemperatureMapper.class);
         conf.setReducerClass(MaxTemperatureReducer.class);
         conf.setOutputKeyClass(Text.class);
-        conf.setOutputValueClass(IntWritable.class);
+        conf.setOutputValueClass(IntWritable.class);   
 
         JobClient.runJob(conf);
 
