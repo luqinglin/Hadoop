@@ -8,7 +8,17 @@ public class main {
 		List list = new ArrayList<String>();
 		list.add(null);
 		list.add(null);
-		list.add(null);
+		list.add(null);     
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		System.out.println(list.size());
 	}
 }
