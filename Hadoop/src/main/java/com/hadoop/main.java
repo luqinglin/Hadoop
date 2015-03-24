@@ -10,5 +10,14 @@ public class main {
 		list.add(null);
 		list.add(null);
 		System.out.println(list.size());
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 }
